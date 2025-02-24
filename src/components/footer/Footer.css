@@ -1,0 +1,106 @@
+hr {
+    width: 70%; /* Adjusts the width of the line */
+    height: 2px; /* Adjusts the thickness of the line */
+    border: none; /* Removes the default border */
+    background-color: #000; /* Sets the color of the line */
+    margin: 20px auto; /* Centers the line and adds space above and below */
+  }
+  .quicklist1 {
+    position: relative; /* Ensures the element can be moved */
+    top: -18px; /* Moves the text up by 10 pixels */
+    /* Alternatively, you can use margin-top */
+    margin-left: -30px;
+  }
+  .footer_brand_name{
+    width: 100%;
+}
+#roughbill {
+  /* color: white;            */
+  text-decoration: underline; /* Underline */
+  border-bottom: 2px solid black; /* Custom underline */
+  font-weight: bold;      /* Make text bold */
+  border-radius: 40%;
+
+}
+.outer{
+  border-radius: 1em;
+  flex-direction: row;
+  margin-left: 50px;
+  margin-top: -27px;
+  width: 60%;
+}
+.names{
+  color: black;
+  margin-left: -70%;
+}
+  .brandname{
+    display: flex;
+    justify-content: start;
+  }
+.car-list a{
+  text-decoration: none;
+}
+.footer-quick-links a{
+  text-decoration: none;
+  line-height: 3.2ch;
+  
+}
+.brandbelow{
+  border-width: 100% ;
+}
+.brandNameLine{
+  width: 92%;
+  height: 1.5px;
+  background-color: black;
+  margin-top: -35px;
+}
+.carnamesdetails{
+  margin-left: 20px;
+  margin-bottom: -100px;
+  display: flex;
+  justify-content: space-evenly;
+  column-gap: 1ch;
+  line-height: 3.5ch;
+}
+.second-line {
+  width:75%;
+  height: 2.5px;
+  background-color: black;
+  margin-top: 1.2ch;
+  margin-left: 6ch;
+  background-color: red
+}
+.third-line {
+  width: 190%;
+  height: 2.5px;
+  background-color: black;
+  margin-top: 1.2ch;
+  margin-right: 8ch;
+  background-color: red
+}
+.four-line {
+  width: 95%;
+  height: 2.5px;
+  margin-left: 2%;
+  background-color: black;
+  margin-top: 1.2ch;
+  margin-right: 8ch;
+  background-color: red;
+  margin-top: -32%;
+}
+
+.Lineone{
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px; /* Decrease thickness */
+  text-underline-offset: 5px; /* Move underline away from text */
+}
+.footer-child-two{
+  margin-bottom: 400px;
+}
+.rights-reserved{
+  margin-right: 50%;
+}
+.your-class-name{
+  width: 50%;
+  margin-bottom: 50%;
+}
